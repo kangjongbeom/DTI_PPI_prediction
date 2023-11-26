@@ -1,2 +1,2 @@
-# My_Study_Repository
+# LAIDD_Repository
 How to use AI for drug design?
