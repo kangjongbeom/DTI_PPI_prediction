@@ -7,6 +7,6 @@ DeepDTA를 참조하고 만들어보았습니다
 
 
 ## DACON 바이오 AI 융합 해커톤 
--  Protein-Protein interaction(h_bond_distance 예측)
+-  Protein-Protein interaction(h_bond_distance prediction)
 
 사용한 DTI 모델에서 input data 만 바꿔주고 attention 기법을 추가하면서 더 좋은 성능을 보임
